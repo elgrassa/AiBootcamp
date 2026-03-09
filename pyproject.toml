@@ -12,6 +12,7 @@ dependencies = [
     "google-genai>=1.61.0",
     "jaxn==0.0.4",
     "jupyter>=1.1.1",
+    "markitdown[pdf]>=0.1.5",
     "minsearch==0.0.9",
     "openai>=2.15.0",
     "pillow>=12.1.0",
@@ -22,6 +23,7 @@ dependencies = [
     "requests>=2.32.5",
     "sentence-transformers>=5.2.2",
     "sqlitesearch>=0.0.2",
+    "tiktoken>=0.12.0",
     "toyaikit>=0.0.9",
     "youtube-transcript-api>=1.2.4",
 ]
